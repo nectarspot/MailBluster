@@ -10,7 +10,7 @@ $options = array(
   'your_language_for_tran' => 'en',  // give you language for auto translate reviews  
   'sort_by_reating_best_1' => true,  // true = sort by rating (best first)
   'show_cname_as_headline' => true,  // true = show customer name as headline
-  'show_age_of_the_review' => true,  // true = show the age of each review
+  'show_age_of_the_review' => true,  
   'show_txt_of_the_review' => true,  
   'show_author_of_reviews' => true,  
 );
