@@ -2,7 +2,7 @@
 
 
 $options = array(
-  'google_maps_review_cid' => '16438002624070568996', // Customer Identification (CID)
+  'google_maps_review_cid' => '164380020705', // Customer Identification (CID)
   'show_only_if_with_text' => false, // true = show only reviews that have text
   'show_only_if_greater_x' => 0,     // (0-4) only show reviews with more than x stars
   'show_rule_after_review' => true,  // false = don't show <hr> Tag after each review (and before first)
