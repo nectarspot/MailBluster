@@ -12,7 +12,7 @@ $options = array(
   'show_cname_as_headline' => true,  // true = show customer name as headline
   'show_age_of_the_review' => true,  // true = show the age of each review
   'show_txt_of_the_review' => true,  // true = show the text of each review
-  'show_author_of_reviews' => true,  // true = show the author of each review
+  'show_author_of_reviews' => true,  
 );
 
 /* -------------------- */
